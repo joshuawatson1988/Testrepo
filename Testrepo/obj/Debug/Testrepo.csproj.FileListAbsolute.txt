@@ -1,0 +1,9 @@
+C:\C#\Testrepo\Testrepo\bin\Debug\Testrepo.exe.config
+C:\C#\Testrepo\Testrepo\obj\Debug\Testrepo.csprojResolveAssemblyReference.cache
+C:\C#\Testrepo\Testrepo\obj\Debug\Testrepo.Form1.resources
+C:\C#\Testrepo\Testrepo\obj\Debug\Testrepo.Properties.Resources.resources
+C:\C#\Testrepo\Testrepo\obj\Debug\Testrepo.csproj.GenerateResource.Cache
+C:\C#\Testrepo\Testrepo\bin\Debug\Testrepo.exe
+C:\C#\Testrepo\Testrepo\bin\Debug\Testrepo.pdb
+C:\C#\Testrepo\Testrepo\obj\Debug\Testrepo.exe
+C:\C#\Testrepo\Testrepo\obj\Debug\Testrepo.pdb
