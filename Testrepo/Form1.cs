@@ -24,7 +24,7 @@ namespace Testrepo
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("See changes to respository");
+            MessageBox.Show("See changes to respository and more changes");
         }
     }
 }
